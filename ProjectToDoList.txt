@@ -1,7 +1,9 @@
 [X] Register williamalexdavis.com
 [X] Setup Github CLI
-[ ] Choose Font 
+[X] Choose Font
+//Pick Color Once Basic Setup Is Created 
 [ ] Choose Simple Light Color Scheme
+
 [ ] Front End 
     [ ] Create Header
     [ ] Create Footer
