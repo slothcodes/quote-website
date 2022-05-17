@@ -1,0 +1,6 @@
+Font = "<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">"
+Font Family CSS = font-family: 'Special Elite', cursive;
+Primary Color = 
+Secondary Color =
+Third Color =
+Highlight Color = 

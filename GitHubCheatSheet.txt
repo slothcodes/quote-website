@@ -8,6 +8,7 @@ git Status
 git commit -m "Description of the commit"
 
 // Sync To Remote Repo
+// Seems Only Necessary When First Initializing The Repo
 git remote add origin https://github.com/slothcodes/quote-website.git
 
 // Push Changes To Github
