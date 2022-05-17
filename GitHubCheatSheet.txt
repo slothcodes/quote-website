@@ -1,0 +1,14 @@
+// Stage The Files In The Directory
+git add .
+
+// Check Status Of The Files
+git Status
+
+// Commit The Changes To Git
+git commit -m "Description of the commit"
+
+// Sync To Remote Repo
+git remote add origin https://github.com/slothcodes/quote-website.git
+
+// Push Changes To Github
+git push -u origin master
