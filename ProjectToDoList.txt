@@ -1,0 +1,29 @@
+[X] Register williamalexdavis.com
+[ ] Setup Github CLI
+[ ] Choose Font 
+[ ] Choose Simple Light Color Scheme
+[ ] Front End 
+    [ ] Create Header
+    [ ] Create Footer
+    [ ] Create Quote Page
+        [ ] Quote Element
+        [ ] Create Tags Element
+        [ ] Create Get Random Button 
+            [ ] Random Button Should Forward To Refresh Page Instead Of Using JS To Update Quote
+    [ ] Create Tag List Page
+    [ ] Create Tage List Of Quotes Page
+    [ ] Create Author List Page
+    [ ] Create Author List Of Quotes Page
+
+
+[ ] Back End
+    [ ] Set Up Express Server
+    [ ] Set Up Test Routing
+    [ ] Create Views And Partials
+    [ ] Update Routing
+    [ ] Separate Tags Into Their Own Fields
+    [ ] Load Quotes Into Database
+    [ ] Connect Database To The App    
+
+
+
