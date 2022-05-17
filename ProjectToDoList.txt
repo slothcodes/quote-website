@@ -6,7 +6,11 @@
 
 [ ] Front End 
     [ ] Create Header
+        - [ ] Link To Authors
+        - [ ] Link To Tags
+        - [ ] Quote Of The Day
     [ ] Create Footer
+        - [ ] Copyright, Contact Us, About
     [ ] Create Quote Page
         [ ] Quote Element
         [ ] Create Tags Element
