@@ -1,18 +1,18 @@
-[X] Register williamalexdavis.com
-[X] Setup Github CLI
-[X] Choose Font
-//Pick Color Once Basic Setup Is Created 
-[ ] Choose Simple Light Color Scheme
-
+[X] Set Up
+    [X] Register williamalexdavis.com
+    [X] Setup Github CLI
+    [X] Choose Font
+    
 [ ] Front End 
-    [ ] Create Header
-        - [ ] Link To Authors
-        - [ ] Link To Tags
-        - [ ] Quote Of The Day
-    [ ] Create Footer
-        - [ ] Copyright, Contact Us, About
-    [ ] Create Quote Page
-        [ ] Quote Element
+    [X] Create Header
+        - [X] Link To Authors
+        - [X] Link To Tags
+        - [X] Quote Of The Day
+        - [X] Random Quote Page [Will Serve As The Index Page]
+    [X] Create Footer
+        - [X] Copyright, Contact Us, About
+    [X] Create Quote Page
+        [X] Quote Element
         [ ] Create Tags Element
         [ ] Create Get Random Button 
             [ ] Random Button Should Forward To Refresh Page Instead Of Using JS To Update Quote
@@ -20,7 +20,8 @@
     [ ] Create Tage List Of Quotes Page
     [ ] Create Author List Page
     [ ] Create Author List Of Quotes Page
-
+    //Pick Color Once Basic Setup Is Created 
+    [ ] Choose Simple Light Color Scheme
 
 [ ] Back End
     [ ] Set Up Express Server
