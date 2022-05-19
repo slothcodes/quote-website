@@ -1,12 +1,17 @@
+/* GENERAL BODY */
+
 body{
+    display: flex;
+    flex-direction: column;
     font-family: 'Special Elite', cursive;
     background-color: #7ABAF2 /*#ADD5F7*/;
 }
 
+/* HEADER STYLINGS */
 header {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
     background-color: #ADD5F7/*#7ABAF2*/;
     height: 4rem;
 }
@@ -14,7 +19,7 @@ header {
 header ul {
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: flex-end;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -22,9 +27,17 @@ header ul {
 
 header li {
     margin: 1rem;
+    padding: 0;
+    height: 4rem;
     color: aliceblue;
 }
 
+header li a:visited {
+    margin: 1rem;
+    color: black;
+}
+
+/* FOOTER STYLINGS */
 footer {
     display: flex;
     justify-content: center;
@@ -35,6 +48,7 @@ footer {
     padding: 0;
 }
 
+/* MAIN CONTENT CONTAINER STYLING */
 .container {
     display: flex;
     border: 1px solid black;
@@ -42,12 +56,17 @@ footer {
     background-color: #cae3fa;
 }
 
+
+/* QUOTE BLOCK STYLING */
 .quoteBlock {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 2rem;
 }
+
+/* TOPIC LIST STYLING */
 
 .topicList {
     display: flex;
@@ -56,6 +75,8 @@ footer {
     align-items: center;
 }
 
+/* AUTHOR LIST STYLING */
+
 .authorList {
     display: flex;
     flex-direction: column;
@@ -63,6 +84,7 @@ footer {
     align-items: center;
 }
 
+/* ALPHABET STYLING */
 .alphabetContainer {
     border-bottom:1px solid black ;
     border-style: line;
@@ -83,3 +105,43 @@ footer {
     margin: 0;
     padding: 0;
 }
+
+/* TAGS LIST STYLING */
+.tags {
+    display: flex;
+}
+
+.tags ul {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.tags li {
+    padding: 0;
+    margin: .25rem;
+}
+
+/* RANDOM BUTTON STYLING
+.buttonContainer {
+    align-self:flex-end;
+    margin: 1rem;
+}
+
+.buttonContainer input[type='button'] {
+    align-items: right;
+    background-color: #caeffa;
+    height: 2rem;
+    max-width: 8rem;
+    width: auto;
+    border-radius: .5rem;
+    box-shadow: none;
+}
+.buttonContainer input[type='button']:hover  {
+    background-color: #f9fcfe;
+    transform: scale(1.02);
+    height: 2rem;
+    max-width: 9rem;
+    border-radius: .5rem;
+    box-shadow: none;
+} */

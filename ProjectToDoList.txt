@@ -13,15 +13,18 @@
         - [X] Copyright, Contact Us, About
     [X] Create Quote Page
         [X] Quote Element
-        [ ] Create Tags Element
+	[X] Add Link To Author Page
+        [X] Create Tags Element
+        ---- CANCELED BUTTON DUE TO SIMPLIFY NAVIGATION ----
         [ ] Create Get Random Button 
             [ ] Random Button Should Forward To Refresh Page Instead Of Using JS To Update Quote
-    [ ] Create Tag List Page
-    [ ] Create Tage List Of Quotes Page
-    [ ] Create Author List Page
-    [ ] Create Author List Of Quotes Page
+        ---- CANCELED BUTTON DUE TO SIMPLIFY NAVIGATION ----
+    [x] Create Tag List Page
+    [x] Create Tage List Of Quotes Page
+    [x] Create Author List Page
+    [x] Create Author List Of Quotes Page
     //Pick Color Once Basic Setup Is Created 
-    [ ] Choose Simple Light Color Scheme
+    [x] Choose Simple Light Color Scheme
 
 [ ] Back End
     [ ] Set Up Express Server
