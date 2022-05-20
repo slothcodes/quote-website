@@ -1,0 +1,17 @@
+<div class="quoteBlock">
+    <h2><%= quoteText %> </h2>  
+    <div class="authorOfQuote">
+        - <%= quoteAuthor %>
+    </div>
+    <div class="tags">
+        <ul>
+            <% if(tags.length > 0){ %>
+                <% tags.forEach(tag => { %>
+                    <li><a href=""><%=  tag.tag %></a></li>
+                <% }) %> 
+                
+            <% } %>
+            
+        </ul>
+    </div>
+</div>

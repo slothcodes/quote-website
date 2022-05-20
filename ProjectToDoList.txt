@@ -27,11 +27,11 @@
     [x] Choose Simple Light Color Scheme
 
 [ ] Back End
-    [ ] Set Up Express Server
-    [ ] Set Up Test Routing
-    [ ] Create Views And Partials
-    [ ] Update Routing
-    [ ] Separate Tags Into Their Own Fields
+    [X] Set Up Express Server
+    [X] Set Up Test Routing
+    [x] Create Views And Partials
+    [x] Update Routing
+    [x] Separate Tags Into Their Own Fields
     [ ] Load Quotes Into Database
     [ ] Connect Database To The App    
 
